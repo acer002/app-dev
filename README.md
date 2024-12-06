@@ -1,4 +1,4 @@
 # app-dev
 My first respositor
 
-My Favorite Game is Need For Speed Unbound, MLBB, Guitar Hero 2 
+My Favorite	Subject is Application Development and Advance Database
