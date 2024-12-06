@@ -1,7 +1,4 @@
 # app-dev
 My first respositor
 
-I am Ace Sancal 
-I am 21 years old
-I love Playing online games
-I live in Batangas City
+I am in Section BSIT 3.1B now in 3rd year College
